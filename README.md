@@ -1,7 +1,7 @@
 # OOP_BTL_Bomberman
-Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội
-Môn học: Lập trình hướng đối tượng (Object-oriented programming)
-Lớp học phần: INT2204 40
+Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội\n
+Môn học: Lập trình hướng đối tượng (Object-oriented programming)\n
+Lớp học phần: INT2204 40\n
 
 Bài tập lớn - Game Bomberman
 Ngôn ngữ lập trình: Java
