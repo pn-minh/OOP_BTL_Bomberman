@@ -55,3 +55,6 @@ Các tính năng đã hoàn thành:
 - Game mặc định có 3 level, có thể chỉnh sửa bản đồ màn chơi theo file .txt nằm trong thư mục res\Levels.
 - Mỗi màn chơi giới hạn thời gian là 120s, giới hạn số bomb có thể đặt.
 - Game có hiệu ứng âm thanh khá sống động :D
+
+Biểu đồ UML:
+![Diagram](UML.png)
