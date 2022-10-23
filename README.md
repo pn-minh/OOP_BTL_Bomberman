@@ -5,6 +5,8 @@ Môn học: Lập trình hướng đối tượng (Object-oriented programming)
 
 Lớp học phần: INT2204 40
 
+Giảng viên: TS.Trần Hoàng Việt ,Ths.Mai Thanh Minh
+
 Bài tập lớn - Game Bomberman
 
 Ngôn ngữ lập trình: Java
