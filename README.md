@@ -43,7 +43,7 @@ Hướng dẫn cài đặt:
 - Bấm tổ hợp phím Ctrl + Alt + Shift + S để mở cửa sổ Project Structure. Chọn Project -> SDK -> Edit -> SDK Home -> Chọn
   đường dẫn đến JDK 20 vừa tải về. Sau đó bấm Apply và OK.
 - Tìm file BombermanGame.java trong thư mục src\GameRunner\, chuột phải vào file -> More Run/Debug -> Modify Run
-  Configuration -> Build and run -> More options -> Add VM options -> Paste đoạn code sau vào: --module-path "C:\Program Files\Java\javafx-sdk-20-ea+4\lib" --add-modules javafx.controls,javafx.fxml.
+  Configuration -> Build and run -> More options -> Add VM options -> Paste đoạn code sau vào: --module-path "C:\Program Files\Java\javafx-sdk-20-ea+4\javafx-sdk-20\lib" --add-modules javafx.controls,javafx.fxml.
 - Bấm OK để lưu lại cấu hình. Bấm Run để chạy game.
 
 Các tính năng đã hoàn thành:
