@@ -11,7 +11,7 @@ Bài tập lớn - Game Bomberman
 
 Ngôn ngữ lập trình: Java
 
-IDE: IntelliJ IDEA 2022.2.3 (Ultimate Edition)
+IDE: IntelliJ IDEA 2022.2.3
 
 JDK & Dependencies:
 
@@ -29,7 +29,7 @@ Thành viên nhóm:
 
 - 21020651 Phạm Nhật Minh (Leader): Các phần điều khiển nhân vật, hành vi của các đối tượng (Bomber, Enemy, Block,
   Items), thuật toán tìm đường cho Enemy (A*), cấu hình Level, cập nhật JDK và các Dependencies
-- 21020109 Nguyễn Tuấn Minh: Thu thập các tài nguyên hình ảnh, âm thanh, texture, font chữ, animation, README.md.
+- 21020109 Nguyễn Tuấn Minh: Thu thập các tài nguyên hình ảnh, âm thanh, texture, font chữ, animation, viết tài liệu.
 
 Hướng dẫn cài đặt:
 
